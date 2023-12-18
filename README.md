@@ -26,5 +26,8 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
+<p>Auf meinem Blog Tüfteltipps dreht sich alles um die Förderung junger Talente in MINT-Fächern. Entdecken Sie Inspiration aus meiner Arbeit sowie sorgfältig ausgewählte Produkte, bewertet nach klaren Kriterien.<a href="https://tuefteltipps.de/"> www.tuefteltipps.de</a></p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->
